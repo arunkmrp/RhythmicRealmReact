@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RhythmicRealmReact/static/css/main.e4d5e988.css",
+    "main.js": "/RhythmicRealmReact/static/js/main.2b12339a.js",
+    "static/media/RythmicRealm.jpg": "/RhythmicRealmReact/static/media/RythmicRealm.960209cbab38409c7324.jpg",
+    "static/media/logo.png": "/RhythmicRealmReact/static/media/logo.d53b5d27748cb98a82db.png",
+    "index.html": "/RhythmicRealmReact/index.html",
+    "main.e4d5e988.css.map": "/RhythmicRealmReact/static/css/main.e4d5e988.css.map",
+    "main.2b12339a.js.map": "/RhythmicRealmReact/static/js/main.2b12339a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d5e988.css",
+    "static/js/main.2b12339a.js"
+  ]
+}
